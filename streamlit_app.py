@@ -5,4 +5,4 @@ st.write(
     "ngodingseru bersama gashamonyong"
 )
 
-
+st.image("IMG-20250527-WA0002.jpg")
